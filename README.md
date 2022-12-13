@@ -1,5 +1,5 @@
 
-# Sales Insights Using PowerBI
+# Celebrity Classifier
 
 End-to-end classification project where user can upload an image of an Indian celebrity(currently restricted to 5 celebrities) on the website and it will recognize the face and tell the name of the celebrity.
 
