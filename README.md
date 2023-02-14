@@ -1,7 +1,7 @@
 
 # Celebrity Classifier
 
-End-to-end classification project where user can upload an image of an Indian celebrity(currently restricted to 5 celebrities) on the website and it will recognize the face and tell the name of the celebrity.
+This is an end-to-end project that involves building a classification model using SVM to identify Indian celebrities from user-uploaded images. A Flask server will be built to serve HTTP requests and a website was created using HTML, CSS, and JavaScript for users to interact. The project is currently restricted to 5 celebrities.
 
 ## 📸Screenshots
 WEBSITE UI
